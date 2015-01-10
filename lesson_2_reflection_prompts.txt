@@ -15,11 +15,19 @@ my staging area and commit1 at the repository
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+Answer: when I need or want to teste something different to master branch
 
 How do the diagrams help you visualize the branch structure?
+Answer: The diagrams can help to see any changes in branches
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+Answer: After I merge the branches I have a game more complete, with funcionalities
+for master branch and the branc where sarah created coins. We represent it in the diagram
+to make easy to understand what it is happnening because we can see it easier in a diagram.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+Answer:
+I think to the merge by Git it's easier. Git shows to you where conflicts are, for example.
+If you do this manually and the code has 100000 lines it will be a problem.
