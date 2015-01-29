@@ -10,7 +10,10 @@ Answer: I believe this way you can choose and have more control with what you wa
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+Fork: is a clone I can do for another github in my github
+Clone: is a clone that I can do in a repository that exists in my local machine 
+I can creat it in my local machine or in git hub
+Branches are your repository where you work
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
