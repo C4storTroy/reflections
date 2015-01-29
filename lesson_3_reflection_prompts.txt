@@ -17,8 +17,8 @@ Branches are your repository where you work
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
+Answer: I think the major benefit you can reverse or merge for a last state.
 
-    Fill in your answer here
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
