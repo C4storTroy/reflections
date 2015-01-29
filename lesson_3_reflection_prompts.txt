@@ -22,8 +22,9 @@ Answer: I think the major benefit you can reverse or merge for a last state.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
-
-    Fill in your answer here
+Answer: Maybe the most difficult will be work in great projects with lot of people
+working in the same branche ou same code, but with the tools I can solve this and
+quick learn
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
